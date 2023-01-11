@@ -1,0 +1,4 @@
+REGULAR EXPRESSIONS
+NAME ==>  /^[A-Za-z. ]*$/
+EMAIL ==>  /[a-zA-Z0-9._-]{3,}@[a-zA-Z0-9._-]{3,}[.]{1}[a-zA-Z0-9._-]{2,}/
+URL or WEBSITE  ==>>  /(https:|ftp:)\/\/[a-zA-Z0-9.\-_\/?\$=&\#\~`!%]+\.[a-zA-Z0-9.\-_\/?\$=&\#\~`!%]*/
